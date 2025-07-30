@@ -3,7 +3,7 @@ A simple calculator application made using HTML,CSS and JavaScript. With a switc
 
 Extra features:
 
-=> Calculations like sin,log,sqrt,pi etc.. can be done by directly entering the text in the Input box.
+=> Calculations like sin, log, sqrt, pi etc.. can be done by directly entering the text in the Input box.
 
 => For Instance,
 | Feature                 | Input                         | Answer     |
