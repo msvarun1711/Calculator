@@ -1,5 +1,5 @@
 # Calculator
-A simple calculator application made using HTML,CSS and JavaScript. With a switching dark mode option.
+A simple calculator application made using HTML, CSS and JavaScript. With a switching dark mode option.
 
 Extra features:
 
